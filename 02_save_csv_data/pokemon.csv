@@ -1,0 +1,8 @@
+id,name,height,weight,type,2nd type,hp,atk,def,sp-at,sp-def,spd
+3,venusaur,20,1000,grass,poison,80,82,83,100,100,80
+6,charizard,17,905,fire,flying,78,84,78,109,85,100
+9,blastoise,16,855,water,n/a,79,83,100,85,105,78
+26,raichu,8,300,electric,n/a,60,90,55,90,80,110
+150,mewtwo,20,1220,psychic,n/a,106,110,90,154,90,130
+149,dragonite,22,2100,dragon,flying,91,134,95,100,100,80
+24,arbok,35,650,poison,n/a,60,95,69,65,79,80
